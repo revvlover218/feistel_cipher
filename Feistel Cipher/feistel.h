@@ -2,20 +2,22 @@
 //Student number: 213501051
 //ENEL4SE - Security and Encryption
 //Practical - Feistel Cipher
-//Filename: Main.cpp
+//Filename: feistel.h
 
-#include <iostream>
+#ifndef FEISTEL_H
+#define FEISTEL_H
 #include <string>
-#include "feistel.h"
 
 using namespace std;
 
-int main()
+class FeistelCipher
 {
+private:
 
 
+public:
 
 
-	system("pause");
-	return 0;
-}
+};
+
+#endif
